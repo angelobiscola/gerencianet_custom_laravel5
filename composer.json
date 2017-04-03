@@ -1,5 +1,6 @@
 {
   "name": "angelobiscola/gerencianet_custom_laravel5",
+  "minimum-stability": "dev",
   "description": "Integração da Gerencianet SDK para Laravel 5.4",
   "keywords": ["Gerencianet", "SDK", "Laravel"],
   "version": "0.0.1",
