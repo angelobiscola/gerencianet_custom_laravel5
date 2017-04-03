@@ -1,0 +1,26 @@
+{
+  "name": "angelobiscola/gerencianet_custom_laravel5",
+  "description": "Integração da Gerencianet SDK para Laravel 5.4",
+  "keywords": ["Gerencianet", "SDK", "Laravel"],
+  "version": "0.0.1",
+  "require": {
+    "guzzlehttp/guzzle": "6.0.2",
+    "php": ">=5.5.0",
+    "codeclimate/php-test-reporter": "^0.4.4",
+    "illuminate/support": "5.2.*|5.3.*|5.4.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Angelo Biscola",
+      "email": "angelo.biscola@gmail.com"
+    }],
+  "autoload": {
+    "psr-0": {
+      "AngeloBiscola\\Gerencianet\\": "src/Gerencianet/"
+    }
+  }
+}
