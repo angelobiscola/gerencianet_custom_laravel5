@@ -19,7 +19,7 @@
       "email": "angelo.biscola@gmail.com"
     }],
   "autoload": {
-    "psr-0": {
+    "psr-4": {
       "AngeloBiscola\\Gerencianet\\": "src/Gerencianet/"
     }
   }
